@@ -5,7 +5,9 @@
 ## Project idea  
 </div>
 
-Create the first cross-platform application for comfortable movement around the campus and buildings of the Polytech University, also for convenient schedule tracking. The application should also provide navigation capabilities not only inside the main building, but also in others.
+Create the first cross-platform application for comfortable movement around the campus and buildings of the Polytech University, also for convenient schedule tracking. 
+
+The application should also provide navigation capabilities not only inside the main building, but also in others.
 
 <div align="center">
 
@@ -18,6 +20,25 @@ Create the first cross-platform application for comfortable movement around the 
 
 * Our product will help to overcome these difficulties. A multifunctional application for any device that combines all the key needs of the average student
 
+<div align="center">
+
+## Proposed solution
+</div>
+
+* Multiplatform application. The interface will be comfortable to use on both iOS and Android
+
+* The main feature of our application will be accurate maps of all campus buildings with geolocation support
+
+* To make the application even more useful for the user, the schedule of the student's study group is also included in the interface
+
+* An additional feature of the application will be everyone's favorite theme selection (light / dark)
+
+<div align="center">
+
+## Methodology of development
+### KANBAN BOARD
+![image](https://user-images.githubusercontent.com/70410264/219221355-66dea20f-390e-4e0c-b36c-5c07818e1fa9.png)
+</div>
 
 <div align="center">
 
