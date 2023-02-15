@@ -42,4 +42,10 @@ The application should also provide navigation capabilities not only inside the 
 
 <div align="center">
 
+## Tools used in the development
+![Screenshot_2](https://user-images.githubusercontent.com/70410264/219222547-83d9a07b-c9e2-4068-848b-75a74c9a0450.png)
+</div>
+
+<div align="center">
+
 </div>
