@@ -12,11 +12,11 @@ Create the first cross-platform application for comfortable movement around the 
 ## Goal of the project
 </div>
 
-+Every student at the Polytech University has faced the problem of finding the right audience or building at least once. And for first-year students who have just arrived at the university, this is always the main problem.
+* Every student at the Polytech University has faced the problem of finding the right audience or building at least once. And for first-year students who have just arrived at the university, this is always the main problem.
 
-+Constant use of the university's website to search for the schedule of your study group is tiring: you need to do too many actions to get what you want
+* Constant use of the university's website to search for the schedule of your study group is tiring: you need to do too many actions to get what you want
 
-+Our product will help to overcome these difficulties. A multifunctional application for any device that combines all the key needs of the average student
+* Our product will help to overcome these difficulties. A multifunctional application for any device that combines all the key needs of the average student
 
 
 <div align="center">
