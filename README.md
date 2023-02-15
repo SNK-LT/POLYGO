@@ -3,6 +3,8 @@
 # PolyGo
 </div>
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/70410264/219215686-f22597b0-1388-45dd-a83c-1d4668b4c97d.png)
 ![image](https://user-images.githubusercontent.com/70410264/219215707-922e56d4-9aa4-4db5-9524-4b8713bcad30.png)
 ![image](https://user-images.githubusercontent.com/70410264/219215720-02f70c2a-40ca-446e-b48e-43dbb8844317.png)
@@ -27,4 +29,4 @@
 ![image](https://user-images.githubusercontent.com/70410264/219216625-ca723a42-dd42-4a5e-9cc8-ae5f5181edbc.png)
 ![image](https://user-images.githubusercontent.com/70410264/219216644-a9b50ec9-ecc3-41a3-a756-c94d7ea92a80.png)
 ![image](https://user-images.githubusercontent.com/70410264/219216677-20fb88b7-a53f-4be8-aa42-de38d933de98.png)
-
+</div>
