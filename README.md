@@ -4,7 +4,7 @@
 ## Schedule and Navigator for SPbPU
 </div>
 
-### Project idea
+### * Project idea
 
 <div align="center">
 
