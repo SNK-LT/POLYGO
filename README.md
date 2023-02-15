@@ -1,7 +1,7 @@
 <div align="center">
 
 # PolyGo
-*** Schedule and Navigator for SPbPU ***
+***Schedule and Navigator for SPbPU***
 ## Project idea  
 </div>
 
