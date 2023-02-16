@@ -55,4 +55,15 @@ The application should also provide navigation capabilities not only inside the 
 
 <div align="center">
 
+<div align="center">
+
+## Database structure
+![image](https://user-images.githubusercontent.com/70410264/219223880-29ac6f13-718d-433a-b5d3-26863690997a.png)
+![image](https://user-images.githubusercontent.com/70410264/219223902-0b499ffd-f80c-48ae-9cde-bc15c7be7b89.png)
+![image](https://user-images.githubusercontent.com/70410264/219223940-0c8de32a-3330-421f-9369-c9723996af6c.png)
+![image](https://user-images.githubusercontent.com/70410264/219223960-f07fe3c8-f41b-4f03-a296-9746bd4986fd.png)
+![image](https://user-images.githubusercontent.com/70410264/219223994-35eed88a-d450-4ce9-808a-ddb24f22551e.png)
+</div>
+
+<div align="center">
 
