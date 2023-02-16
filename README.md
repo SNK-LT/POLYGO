@@ -1,9 +1,6 @@
 <div align="center">
   
-<font color="green"> 
-# PolyGo
-</font>
-  
+# PolyGo 
 ***Schedule and Navigator for SPbPU***
 ## Project idea  
 </div>
