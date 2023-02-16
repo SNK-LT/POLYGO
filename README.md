@@ -49,9 +49,10 @@ The application should also provide navigation capabilities not only inside the 
 <div align="center">
 
 ## Packages that we used
-![Screenshot_3](https://user-images.githubusercontent.com/70410264/219223206-850666c6-7cd8-48f8-9df6-700444444294.png)
+![Screenshot_3](https://user-images.githubusercontent.com/70410264/219223567-ec5f2560-ff64-472e-b66e-ed0f2546cae7.png)
+![image](https://user-images.githubusercontent.com/70410264/219223617-6193e203-c731-4972-97d0-f83664c5cd13.png)
 </div>
 
 <div align="center">
 
-</div>
+
