@@ -66,4 +66,12 @@ The application should also provide navigation capabilities not only inside the 
 </div>
 
 <div align="center">
+  
+<div align="center">
+
+# Design
+![Screenshot_1](https://user-images.githubusercontent.com/70410264/219224223-feecde27-a891-4688-bfc6-5fe0145cd0fc.png)
+</div>
+
+<div align="center">
 
