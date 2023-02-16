@@ -43,7 +43,13 @@ The application should also provide navigation capabilities not only inside the 
 <div align="center">
 
 ## Tools used in the development
-![Screenshot_2](https://user-images.githubusercontent.com/70410264/219222818-74139808-f2af-4821-864e-7dcfe4ac46f5.png)
+![Screenshot_2](https://user-images.githubusercontent.com/70410264/219222964-fe2bcc91-432a-4876-8c3e-541dd8a5a4f0.png)
+</div>
+
+<div align="center">
+
+## Packages that we used
+![Screenshot_3](https://user-images.githubusercontent.com/70410264/219223206-850666c6-7cd8-48f8-9df6-700444444294.png)
 </div>
 
 <div align="center">
